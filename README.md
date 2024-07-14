@@ -4,15 +4,15 @@ This project includes various investigations and analyses on stock market predic
 ## Contents
 
 Dataset Folders
-AMAZON/: This folder contains datasets related to Amazon stocks.
-APPLE/: This folder contains datasets related to Apple stocks.
-NETFLIX/: This folder contains datasets related to Netflix stocks.
-SPX500/: This folder contains datasets related to the S&P 500 index.
++ AMAZON/: This folder contains datasets related to Amazon stocks.
++ APPLE/: This folder contains datasets related to Apple stocks.
++ NETFLIX/: This folder contains datasets related to Netflix stocks.
++ SPX500/: This folder contains datasets related to the S&P 500 index.
 
 ## Code and Documentation
 
-stock_market_predictions.ipynb: This Jupyter Notebook file contains the code used for the investigations and analyses.
-stock_market_predictions.pdf: This PDF file contains the project report detailing the methodology, results, and conclusions of the study.
++ stock_market_predictions.ipynb: This Jupyter Notebook file contains the code used for the investigations and analyses.
++ stock_market_predictions.pdf: This PDF file contains the project report detailing the methodology, results, and conclusions of the study.
 
 ## How to Use
 
