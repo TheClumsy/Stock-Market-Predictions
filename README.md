@@ -17,5 +17,7 @@ Dataset Folders
 ## How to Use
 
 Navigate to the appropriate dataset folder to access the raw data.
+
 Open stock_market_predictions.ipynb in Jupyter Notebook to view and run the code for the analyses.
+
 Refer to stock_market_predictions.pdf for a comprehensive overview of the project's findings and insights.
